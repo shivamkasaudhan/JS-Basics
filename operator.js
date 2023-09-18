@@ -1,0 +1,12 @@
+console.log(2+2);
+console.log(10-20);
+console.log(1*45);
+console.log(23/45);
+console.log(23>45);
+console.log(23<21);
+console.log(23==23);
+console.log(23!=45);
+console.log(23**5);
+console.log(100 == "100");
+console.log(100 === "100");
+console.log(100 !== "100");
